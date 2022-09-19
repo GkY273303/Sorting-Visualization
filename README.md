@@ -9,6 +9,7 @@
 - `Quick Sort`
 - `Merge Sort`
 
+
 ### This is built using `HTML`, `CSS`, `JavaScript` <br/>
 
 [Check out the website here](https://github.com/GkY273303/sorting-visualization/)
