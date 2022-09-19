@@ -14,6 +14,8 @@
 
 [Check out the website here](https://github.com/GkY273303/sorting-visualization/)
 
-<img src="img/img1.png"> <br/>
-<img src="img/img2.png"> <br/>
-<img src="img/img3.png"> <br/>
+## `illustrative`
+
+<img src="img/img1.png"> <br/><br/><br/>
+<img src="img/img2.png"> <br/><br/><br/>
+<img src="img/img3.png"> <br/><br/><br/>
