@@ -18,4 +18,4 @@
 
 <img src="img/img1.png"> <br/><br/><br/>
 <img src="img/img2.png"> <br/><br/><br/>
-<img src="img/img3.png"> <br/><br/><br/>
+<img src="img/img3.png"> <br/>
